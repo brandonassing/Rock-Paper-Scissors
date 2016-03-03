@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 14c1ae50b5b24c64793a7cacf0a3f7a0
+timeCreated: 1456957398
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - p2Prefab: {instanceID: 0}
+  - roundsGT: {instanceID: 0}
+  - p2ScoreGT: {instanceID: 0}
+  - resultGT: {instanceID: 0}
+  - vsGT: {instanceID: 0}
+  - gameOverGO: {instanceID: 0}
+  - p2TextGO: {instanceID: 0}
+  - p1TextGO: {instanceID: 0}
+  - vsGO: {instanceID: 0}
+  - playAgain: {instanceID: 0}
+  - quitGame: {instanceID: 0}
+  - rockMat: {fileID: 2100000, guid: 2eb9f521079ea7e4090d803f3641c0d5, type: 2}
+  - paperMat: {fileID: 2100000, guid: 601bfc8bd4825db49b935442adbede3e, type: 2}
+  - sciMat: {fileID: 2100000, guid: 07a48ef6ee344bd4a9a54cc692ce14f7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
